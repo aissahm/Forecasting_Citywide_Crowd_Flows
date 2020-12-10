@@ -38,7 +38,7 @@ The road network for Chicago was extracted from https://overpass-turbo.eu/
 8 - Feed the clustered regions' time series to a LSTM model for forecasting taxi trips for each region.
 
 
-# Bibiliography:
+# Bibliography:
 
 This work is based on the following research papers:
 
