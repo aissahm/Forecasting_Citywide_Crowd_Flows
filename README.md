@@ -11,11 +11,10 @@ The data comes from the Chicago Open data website located at:
 
 https://data.cityofchicago.org/browse?category=Transportation
 
-## Note: Due to the size of the dataset (over 10 Gigabytes), it's preferable to download them and store them inside a folder outside of Git repository.
-
 
 The road network for Chicago was extracted from https://overpass-turbo.eu/
 
+#### Note: Due to the size of the dataset (over 10 Gigabytes), it's preferable to download them and store them inside a folder outside of Git repository.
 
 
 # Work steps:
