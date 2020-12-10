@@ -6,17 +6,21 @@ This repository contains notebook files to experiment and validate the clustered
 The experiment was conducted using taxi historical records from January 1st 2015 to end of December 2016.  
 
 
+
 The data comes from the Chicago Open data website located at:
 
 https://data.cityofchicago.org/browse?category=Transportation
 
-Note: Due to the size of the dataset (over 10 Gigabytes), it's preferable to download them and store them inside a folder outside of Git repository.
+## Note: Due to the size of the dataset (over 10 Gigabytes), it's preferable to download them and store them inside a folder outside of Git repository.
 
 
 The road network for Chicago was extracted from https://overpass-turbo.eu/
 
 
-The experiment is conducted in the following steps:
+
+# Work steps:
+
+## The experiment is conducted in the following steps:
 
 1 - Download the road network of Chicago, composed of the highways and primary streets only. Build a high resolution image of the road network.
 
@@ -35,7 +39,7 @@ The experiment is conducted in the following steps:
 8 - Feed the clustered regions' time series to a LSTM model for forecasting taxi trips for each region.
 
 
-Bibiliography:
+# Bibiliography:
 
 This work is based on the following research papers:
 
